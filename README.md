@@ -4,8 +4,7 @@ This work is a video excerpt taken from the Menai Straits on Anglesey, UK, for t
 
 Video  capture  with  timestamp  overlay  top  left, compiled from image frames using FFMPEG, illustrating boils seen at the surface ~1 hr 35 minutes before high tide on 24th May 2018.  
 
-[video excerpt](https://user-images.githubusercontent.com/96192288/146381097-c3408ca0-12da-4008-9b51-d95a8ada7c67.mp4/)  
-If this link doesn't work please cut and paste the following url into your browser:  
+If this link doesn't work please cut and paste the url into your browser:  
 [https://user-images.githubusercontent.com/96192288/154312291-99339834-be85-4af3-97b2-f49414fa86c8.mp4](https://user-images.githubusercontent.com/96192288/154312291-99339834-be85-4af3-97b2-f49414fa86c8.mp4)
 
 
